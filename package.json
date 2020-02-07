@@ -1,7 +1,7 @@
 {
   "name": "IntroHCI",
   "version": "0.0.1",
-  "author": "Intro HCI Staff",
+  "author": "Sam Baik",
   "repository": {
     "type": "git",
     "url": "https://github.com/baikhsam/COGS120-gymbuddy"
@@ -9,7 +9,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "node server.js"
+    "start": "app.js"
   },
   "dependencies": {
     "express": "3.x",
